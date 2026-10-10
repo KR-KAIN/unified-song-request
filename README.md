@@ -4,10 +4,10 @@
 
 **멀티 플랫폼 방송을 위한 Windows 신청곡 관리 프로그램**
 
-Weflab · Toonation · 신청곡 대기열 · YouTube 검색/재생 · OBS 방송 오버레이
+Weflab · Toonation · 플랙스TV · 신청곡 대기열 · YouTube 음악 검색/재생 · OBS 오버레이
 
 ![Windows](https://img.shields.io/badge/Windows-64bit-2563eb?style=flat-square)
-![개발 버전](https://img.shields.io/badge/개발_버전-v1.6.11-ff69b4?style=flat-square)
+![개발 빌드](https://img.shields.io/badge/개발_버전-v1.0.0-ff69b4?style=flat-square)
 ![설치파일](https://img.shields.io/badge/설치파일-검증_전-64748b?style=flat-square)
 
 [프로그램 소개 페이지](docs/index.html) · [배포 버전](https://github.com/KR-KAIN/unified-song-request/releases) · [문의/오류 제보](https://github.com/KR-KAIN/unified-song-request/issues)
@@ -38,18 +38,19 @@ Weflab · Toonation · 신청곡 대기열 · YouTube 검색/재생 · OBS 방�
 | 자동 다음곡 | 곡 종료 시 다음 신청곡으로 이동하도록 설계 |
 | OBS 오버레이 | 신청곡 목록을 방송 화면에 표시, 디자인·글꼴 설정 |
 | 편의 기능 | 접수 ON/OFF, 라이트/다크, 단축키, 로그, 라이선스 인증 |
+| 플랙스TV | Weflab 통합채팅 플랫폼 표시 및 명시된 렉스 수량의 후원액 환산(실방송 검증 필요) |
 
 실제 YouTube 영상의 임베드 및 자동 재생 여부는 YouTube의 재생 조건·정책에 영향을 받습니다.
 
 ## 버전 및 다운로드
 
-- **현재 개발 버전:** v1.6.11
+- **현재 개발 버전:** v1.0.0
 - **Windows 설치 파일:** Windows에서 빌드·검증 후 Releases에 게시 예정
-- **자동 업데이트:** 향후 추가 예정. 현재 v1.6.11에는 미포함
+- **자동 업데이트:** v1.0.0 설치형 소스에 준비됨. Windows 설치·업데이트 검증과 첫 릴리스 후 사용 가능
 
 > 아직 설치 파일을 Releases에 올리지 않았다면 이 저장소에서 다운로드할 수 없습니다. 소스 ZIP을 설치 파일로 오인하지 마세요.
 
-## 향후 자동 업데이트 계획
+## 자동 업데이트 설계 및 검증 대기
 
 - 프로그램 시작 시 새 버전 확인 및 자동 다운로드
 - 업데이트 설치 준비 시 **재실행 여부 확인**
@@ -60,6 +61,6 @@ Weflab · Toonation · 신청곡 대기열 · YouTube 검색/재생 · OBS 방�
 
 **KAIN** · 통합신청곡 Studio
 
-이 저장소는 **프로그램 소개 및 공개 배포 정보용**입니다. 애플리케이션 원본 소스와 라이선스 서버 코드는 게시하지 않습니다.
+이 저장소는 **프로그램 소개 및 공개 설치형 배포 정보용**입니다. 실제 프로그램 소스는 공개하지 않습니다. 애플리케이션 원본 소스와 라이선스 서버 코드는 게시하지 않습니다.
 
 © 2026 통합신청곡. 무단 복제·재배포 및 소스 사용 허가를 의미하지 않습니다.
